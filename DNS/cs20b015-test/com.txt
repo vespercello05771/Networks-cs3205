@@ -1,0 +1,3 @@
+bank.com 127.0.0.1
+shop.com 127.0.0.1
+store.com 127.0.0.1

@@ -1,0 +1,12 @@
+recieved request: www.bank.com
+found : bank.com 127.0.0.1
+127.0.0.1
+****************************************
+recieved request: www.bank.edu
+found : bank.edu 127.0.0.1
+127.0.0.1
+****************************************
+recieved request: ftp.bank.edu
+found : bank.edu 127.0.0.1
+127.0.0.1
+****************************************

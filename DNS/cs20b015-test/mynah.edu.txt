@@ -1,0 +1,6 @@
+mynah.edu 127.0.0.1
+www.mynah.edu 198.167.5.1
+smtp.mynah.edu 198.167.5.2
+ftp.mynah.edu 198.167.5.3
+sshd1.mynah.edu 198.167.5.4
+vpn.mynah.edu 198.167.5.5

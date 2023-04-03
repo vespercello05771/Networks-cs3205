@@ -1,0 +1,6 @@
+bank.com 127.0.0.1
+www.bank.com 202.15.5.1
+smtp.bank.com 202.15.5.2
+ftp.bank.com 202.15.5.3
+sshd1.bank.com 202.15.5.4
+vpn.bank.com 202.15.5.5

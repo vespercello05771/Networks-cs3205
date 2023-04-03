@@ -1,0 +1,6 @@
+bank.edu 127.0.0.1
+www.bank.edu 192.13.5.1
+smtp.bank.edu 192.13.5.2
+ftp.bank.edu 192.13.5.3
+sshd1.bank.edu 192.13.5.4
+vpn.bank.edu 192.13.5.5

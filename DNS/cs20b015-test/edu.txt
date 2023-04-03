@@ -1,0 +1,3 @@
+mynah.edu 127.0.0.1
+bank.edu 127.0.0.1
+cougar.edu 127.0.0.1

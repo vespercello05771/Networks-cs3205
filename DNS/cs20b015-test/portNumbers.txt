@@ -1,0 +1,9 @@
+root 54
+TDS com 55
+TDS edu 56
+ADS bank.com 57
+ADS shop.com 58
+ADS store.com 59
+ADS mynah.edu 60
+ADS bank.edu 61
+ADS cougar.edu 62

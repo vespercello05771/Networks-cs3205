@@ -1,0 +1,6 @@
+shop.com 127.0.0.1
+www.shop.com 133.54.5.1
+smtp.shop.com 133.54.5.2
+ftp.shop.com 133.54.5.3
+sshd1.shop.com 133.54.5.4
+vpn.shop.com 133.54.5.5

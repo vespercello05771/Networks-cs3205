@@ -1,0 +1,6 @@
+store.com 127.0.0.1
+www.store.com 143.11.5.21
+smtp.store.com 143.11.5.22
+ftp.store.com 143.11.5.23
+sshd1.store.com 143.11.5.24
+vpn.store.com 143.11.5.25

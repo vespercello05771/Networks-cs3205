@@ -1,0 +1,8 @@
+com [['bank.com', '127.0.0.1'], ['shop.com', '127.0.0.1'], ['store.com', '127.0.0.1']]
+edu [['mynah.edu', '127.0.0.1'], ['bank.edu', '127.0.0.1'], ['cougar.edu', '127.0.0.1']]
+com [['bank.com', '127.0.0.1'], ['shop.com', '127.0.0.1'], ['store.com', '127.0.0.1']]
+edu [['mynah.edu', '127.0.0.1'], ['bank.edu', '127.0.0.1'], ['cougar.edu', '127.0.0.1']]
+com [['bank.com', '127.0.0.1'], ['shop.com', '127.0.0.1'], ['store.com', '127.0.0.1']]
+edu [['mynah.edu', '127.0.0.1'], ['bank.edu', '127.0.0.1'], ['cougar.edu', '127.0.0.1']]
+com [['bank.com', '127.0.0.1'], ['shop.com', '127.0.0.1'], ['store.com', '127.0.0.1']]
+edu [['mynah.edu', '127.0.0.1'], ['bank.edu', '127.0.0.1'], ['cougar.edu', '127.0.0.1']]

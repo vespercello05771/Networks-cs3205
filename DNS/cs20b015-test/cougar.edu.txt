@@ -1,0 +1,6 @@
+cougar.edu 127.0.0.1
+www.cougar.edu 212.18.25.1
+smtp.cougar.edu 212.18.25.2
+ftp.cougar.edu 212.18.35.3
+sshd1.cougar.edu 212.18.45.4
+vpn.cougar.edu 212.18.55.5
