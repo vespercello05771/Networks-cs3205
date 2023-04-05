@@ -47,7 +47,7 @@ parser.add_argument("-f", "--mbs", help="max buffer size", type = int)
 args = parser.parse_args()
 
 if args.debug:
-    DEBUG = args.debug
+    DEBUG = 1
     print("Debug mode is enabled")
 if args.server:
     sever = args.server
@@ -101,8 +101,9 @@ while True:
     if(RTT.size() == 10) :
         TIMEOUT = sum(RTT)/RTT.length
     # Print packet information
-    print(f"PACKET GENERATION RATE : {PACKET_GEN_RATE}\nPACKET_LENGTH : {PACKET_LENGTH}\nRetransmission ratio : {}\nAverage RTT value for all Acknowledged Packets : {}")
-    if DEBUG :
+    print(f"PACKET GENERATION RATE : {PACKET_GEN_RATE}\nPACKET_LENGTH : {PACKET_LENGTH}\nRetransmission ratio : {1}\nAverage RTT value for all Acknowledged Packets : {2}")
+    
+    if(DEBUG == 1) :
         print(f"Seq #: {sequence_number}  \nTime Generated : {time_str}\nRTT : {RTT}\n Number of Attempts : {NOA} ")
     # Wait for the next packet generation
     time.sleep(1 / PACKET_GEN_RATE)
@@ -112,4 +113,4 @@ while True:
 
 
 
-
+socket.close()

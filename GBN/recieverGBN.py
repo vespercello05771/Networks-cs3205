@@ -58,7 +58,7 @@ while True:
     ack_data = "0".encode()
     
     # Receive a packet
-    packet_data, client_address = server_socket.recvfrom(PACKET_LENGTH)
+    packet_data, client_address = server_socket.recvfrom(1024)
     
     # Extract sequence number from the packet
     sequence_number = int(packet_data[-8:].decode())
@@ -87,3 +87,5 @@ while True:
         #send cumulative ack
         server_socket.sendto(ack_data,client_address)
     
+
+socket.close()
